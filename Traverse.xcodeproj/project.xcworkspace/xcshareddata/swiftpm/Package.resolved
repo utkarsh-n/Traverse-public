@@ -1,0 +1,24 @@
+{
+  "originHash" : "1081a5e075a434f932ff533c085f4608eabdfced3d06531230a7be6e2f7ebdb3",
+  "pins" : [
+    {
+      "identity" : "shaderkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jamesrochabrun/ShaderKit",
+      "state" : {
+        "revision" : "5f5459a2e13c9015b805672d1dd5f9613dbd8f28",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "sticker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bpisano/Sticker",
+      "state" : {
+        "revision" : "301b9e0fb802c01edb2ed25695b3ba62e9c61da3",
+        "version" : "1.4.0"
+      }
+    }
+  ],
+  "version" : 3
+}
